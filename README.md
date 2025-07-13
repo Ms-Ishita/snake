@@ -68,9 +68,13 @@ High score is saved in a local file highscore.txt.
 Automatically updated if a new high score is achieved.
 
 ## 📸 Screenshots
-Easy Mode	Hard Mode
+Easy Mode	
 
-Add your screenshots in a /screenshots folder.
+![Easy Mode](ScreenS/EasyMode.png)
+
+Hard Mode
+
+
 
 ## 🙌 Acknowledgements
 This project is inspired by the classic Snake game concept and built using core Java features. It’s great for learning:

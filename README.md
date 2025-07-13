@@ -74,7 +74,11 @@ Easy Mode
 
 Hard Mode
 
+![Hard Mode](ScreenS/HardMode.png)
 
+Game Over!!
+
+![Game Over](ScreenS/GameOver.png)
 
 ## 🙌 Acknowledgements
 This project is inspired by the classic Snake game concept and built using core Java features. It’s great for learning:
